@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6be12adfb764e348cebb89a5c90603, type: 3}
+  m_Name: Down2Terrance
+  m_EditorClassIdentifier: 
+  locationName: 'American Sonnet(s): Terrance Hayes'
+  description: His manic drawing became a kind of writing when he sent his beloved
+    a sketch of an eye with an "X" struck through it. He meant, "I am blind without
+    you." She thought he meant, "I never want to see you again." It is possible he
+    meant that, too.
+  locationUp: {fileID: 11400000, guid: 9a3df3a985f7e7d4b96a5701f56f7262, type: 2}
+  locationDown: {fileID: 0}
+  locationLeft: {fileID: 0}
+  locationRight: {fileID: 0}

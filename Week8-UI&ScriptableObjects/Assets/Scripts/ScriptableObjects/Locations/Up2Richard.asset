@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6be12adfb764e348cebb89a5c90603, type: 3}
+  m_Name: Up2Richard
+  m_EditorClassIdentifier: 
+  locationName: 'Scheherazade: Richard Siken'
+  description: Tell me about the dream where we pull the bodies out of the lake and
+    dress them in warm clothes again. How it was late, and no one could sleep, the
+    horses running until they forget that they are horses.
+  locationUp: {fileID: 11400000, guid: 6f087401065aa4b419a770e1a4de986f, type: 2}
+  locationDown: {fileID: 11400000, guid: 06688e7ec0def394a9e952e7713b40d4, type: 2}
+  locationLeft: {fileID: 0}
+  locationRight: {fileID: 0}

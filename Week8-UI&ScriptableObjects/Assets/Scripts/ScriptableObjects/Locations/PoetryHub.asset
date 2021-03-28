@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6be12adfb764e348cebb89a5c90603, type: 3}
+  m_Name: PoetryHub
+  m_EditorClassIdentifier: 
+  locationName: Poetry Hub
+  description: Choose a direction to read short excerpts from some of my favorite
+    poems!
+  locationUp: {fileID: 11400000, guid: 06688e7ec0def394a9e952e7713b40d4, type: 2}
+  locationDown: {fileID: 11400000, guid: 9a3df3a985f7e7d4b96a5701f56f7262, type: 2}
+  locationLeft: {fileID: 11400000, guid: a67e7bbed4962e445bcc02a161e32416, type: 2}
+  locationRight: {fileID: 11400000, guid: 08ca5aa25916dd045a0e6b0a4d637a21, type: 2}
